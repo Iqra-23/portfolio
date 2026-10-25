@@ -29,7 +29,7 @@ portfolio/
 ├── js/script.js
 ├── assets/
 │   ├── images/
-│   └── resume.pdf
+│   
 └── README.md
 ```
 
